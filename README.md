@@ -1,7 +1,7 @@
 
 # Aprendiz de Maker
 
-De la nada a lo que puedo en electrónica, tanto analógica como digital.  
+De la nada a lo que puedo en electrónica, tanto analógica como digital, Arduino, FPGAs...  
 
 Añadamos también un poquito de impresión 3D (cuando se pueda) y todo aquello que vaya encontrando por el camino.
 
