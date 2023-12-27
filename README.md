@@ -5,7 +5,7 @@ De la nada a lo que puedo en electrónica, tanto analógica como digital.
 
 Añadamos también un poquito de impresión 3D.
 
-![imagen](https://www.enterrasolutions.com/wp-content/uploads/2015/04/The-Maker-Movement.png)  
+![imagen](https://github.com/angelmicelti/Aprendiz-de-Maker/img/maker.png)  
 
 Pulsa en [este enlace](https://github.com/angelmicelti/Aprendiz-de-Maker/wiki) para ir a la [wiki](https://github.com/angelmicelti/Aprendiz-de-Maker/wiki).  
 
