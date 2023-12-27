@@ -3,7 +3,7 @@
 
 De la nada a lo que puedo en electrónica, tanto analógica como digital.  
 
-Añadamos también un poquito de impresión 3D.
+Añadamos también un poquito de impresión 3D (cuando se pueda) y todo aquello que vaya encontrando por el camino.
 
 ![imagen](img/maker.png)  
 
