@@ -5,7 +5,9 @@ De la nada a lo que puedo en electrónica, tanto analógica como digital, Arduin
 
 Añadamos también un poquito de impresión 3D (cuando se pueda) y todo aquello que vaya encontrando por el camino.
 
-![imagen](img/maker.png)  
+<p align="center">
+  <img src="https://github.com/angelmicelti/Aprendiz-de-Maker/blob/master/img/maker.png">
+</p>
 
 Pulsa en [este enlace](https://github.com/angelmicelti/Aprendiz-de-Maker/wiki) para ir a la [wiki](https://github.com/angelmicelti/Aprendiz-de-Maker/wiki).  
 
